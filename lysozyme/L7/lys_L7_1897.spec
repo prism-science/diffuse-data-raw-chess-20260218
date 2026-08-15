@@ -1,0 +1,1 @@
+../../.git/annex/objects/wM/30/MD5E-s2922--80b0b84fcddbafba3ab00a63aa9f27a1.spec/MD5E-s2922--80b0b84fcddbafba3ab00a63aa9f27a1.spec

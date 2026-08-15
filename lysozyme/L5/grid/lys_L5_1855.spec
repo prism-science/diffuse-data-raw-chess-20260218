@@ -1,0 +1,1 @@
+../../../.git/annex/objects/k3/z7/MD5E-s52053--3b7295d1c97e9126c95067cfa9b87a7b.spec/MD5E-s52053--3b7295d1c97e9126c95067cfa9b87a7b.spec
